@@ -1,0 +1,12 @@
+{
+    "name": "kercode3/test_unit",
+    "authors": [
+        {
+            "name": "KiryhQ",
+            "email": "quentin.dereumaux@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.0"
+    }
+}
